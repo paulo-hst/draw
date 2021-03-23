@@ -49,7 +49,7 @@ header{
     transition: background 0.2s;
 }
 .menu ul li:hover{    
-    background: lightcoral;
+    background: #666;
 
     transition: background 0.2s;
 }
